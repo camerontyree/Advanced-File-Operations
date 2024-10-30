@@ -1,0 +1,5 @@
+﻿  TyreeProgram.cpp
+D:\repos\sinclair-c++\Advanced File Operations\Advanced File Operations\TyreeProgram.cpp(117,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\repos\sinclair-c++\Advanced File Operations\Advanced File Operations\TyreeProgram.cpp(123,39): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\repos\sinclair-c++\Advanced File Operations\Advanced File Operations\TyreeProgram.cpp(128,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Advanced File Operations.vcxproj -> D:\repos\sinclair-c++\Advanced File Operations\x64\Debug\Advanced File Operations.exe
